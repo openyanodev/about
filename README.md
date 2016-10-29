@@ -2,6 +2,7 @@
 The goal of this project is to create an open, crowdsourced, distributed real-time geo database.
 
 In simpler words, it is to provide two functions:
+
 1. Realtime POIs like police traps or accidents, like existing centralized apps: [Yanosik](https://my.mixtape.moe/sylxdk.png), [Waze](http://imgur.com/oVg5fQS)
 2. Near-realtime traffic speed, like [Google Maps Traffic layer](https://www.google.pl/maps/@52.2432257,21.026693,12.5z/data=!5m1!1e1)
 
